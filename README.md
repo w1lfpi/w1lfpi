@@ -3,9 +3,6 @@
 👨🏼‍🎓 Learning low-level programming and system security  
 👨🏼‍💻 Open to internship opportunities  
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ehotinka) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexe.pyshkin@yandex.ru)
-
 ---
 
 ## 🧰 Tech Stack:
