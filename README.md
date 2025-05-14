@@ -23,5 +23,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1lfpi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="33%"/>
-  <img src="IMG_6805 (1).gif" width="59.5%">
+  <img src="IMG_6805_best.gif" width="59.5%">
 </div>
