@@ -7,6 +7,7 @@
 
 ## 🧰 Tech Stack:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF3E00.svg?style=for-the-badge&logo=HackTheBox&logoColor=white)
